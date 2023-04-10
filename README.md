@@ -28,7 +28,7 @@ The combination of these two systems creates a more secure and accurate authenti
 
 ### Pic about SPEAKER RECOGNITION ARCHITECTURE
 
-![SIAMESE](https://www.researchgate.net/publication/322412956/figure/fig1/AS:611288312979456@1522753899154/Block-diagram-of-a-speaker-recognition-system-training-test.png)
+![SIAMESE](https://github.com/imadarsh9686/face-and-voice-authentication-system-using-gmm-model-/blob/main/gmm%20voice.png)
 
 ### FACE RECOGNITION ARCHITECTURE 
 
