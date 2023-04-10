@@ -49,6 +49,7 @@ The combination of these two systems creates a more secure and accurate authenti
 ## 1) Create new project virtual environment with pyathon 3.9
 
 -  create virtual environment with python 3.9 
+- Install all libraries from requirement.txt file attached
 
 
 ## 4) Face any issue in Installing dlib library/ face_recognition library click on the link  
