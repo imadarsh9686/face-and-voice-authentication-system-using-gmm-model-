@@ -7,7 +7,7 @@
 ## 🚀 About Me
  # Hi, I'm Adarsh ! 👋
 
-Experienced data scientist with expertise in NLP, ML, and DL. Proficient in Python and data visualization, with a track record of developing and deploying ML models. Skilled at working with large datasets and driving data-driven decision making through cross-functional collaboration. Strong communication and leadership skills for effective mentoring and presenting to non-technical audiences.
+I am an experienced data scientist with expertise in natural language processing (NLP), machine learning (ML), and deep learning (DL), as well as strong skills in computer vision, face recognition, signal processing, and voice authentication. I have a solid background in developing and deploying ML models using Python and data visualization, and I am skilled in working with large datasets to drive data-driven decision making through cross-functional collaboration. My AI and ML experience includes designing and implementing deep learning models for various applications, collaborating with cross-functional teams to develop cutting-edge solutions, and presenting technical concepts to non-technical stakeholders. With strong communication and leadership skills, I am an effective mentor who can drive business value through my expertise in AI and ML.
 
 
 
